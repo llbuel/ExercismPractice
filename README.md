@@ -6,7 +6,7 @@ Unit testing is done with the [Catch2 library (v2.13.10)](https://github.com/cat
 
 Cpp directory includes an executable bash script "new_project.sh" that will create a new subdirectory from the "1_template" subdirectory, and automate the header/source inclusions.
 
-**NOTE:** For Windows users, use "new_project.bat" instead.
+**NOTE:** Currently, the "new_project" script only works on Linux -- Windows batch port is currently in-work, but there are UNIX->Batch compatibility layers available.
 
 Each subdirectory includes a short README to explain the goal of the program, any additional details and requirements, and an example. The test cases defined in "test.cpp" are taken as the hard requirements.
 
