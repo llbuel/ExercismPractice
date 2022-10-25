@@ -14,8 +14,6 @@ Each C++ exercise was built using g++.
 
 ## Installation
 
-Make sure to only build and run each exercise subdirectory individually, as each contains a "test.cpp" file, containing the exercise program entry point. Building all of ExercismPractice/Cpp/ will result in multiple entry points.
-
 Must install Catch2 test library to run any program built from the "test.cpp" file. Some programs also use date-time calculations using the [Boost C++ Libraries (v1.80)](https://www.boost.org/) -- these are highlighted in the README for the specific exercise.
 
 ## Usage
