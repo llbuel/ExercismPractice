@@ -28,7 +28,7 @@ $(mv $PWD/$project_name/header.h $PWD/$project_name/$project_name$file_ext_h)
 
 echo "Configuring new files."
 
-include_fileToTest='#include "'$project_name$file_ext_cpp'"'
+include_fileHToTest='#include "'$project_name$file_ext_h'"'
 namespaceStart='namespace '"$project_name"' {'
 newClassCall='        '$project_name'::templateClass c(a.a, a.b);'
 include_h_inCpp='#include "'$project_name$file_ext_h'"'
@@ -42,5 +42,5 @@ sed -i '1s/.*/'"$header_guard_ifndef"'/' $PWD/$project_name/$project_name$file_e
 sed -i '2s/.*/'"$header_guard_define"'/' $PWD/$project_name/$project_name$file_ext_h
 sed -i '4s/.*/'"$namespaceStart"'/' $PWD/$project_name/$project_name$file_ext_h
 
-sed -i '2s/.*/'"$include_fileToTest"'/' $PWD/$project_name/test.cpp
+sed -i '2s/.*/'"$include_fileHToTest"'/' $PWD/$project_name/test.cpp
 sed -i '36s/.*/'"$newClassCall"'/' $PWD/$project_name/test.cpp
