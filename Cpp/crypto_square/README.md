@@ -54,7 +54,7 @@ Notice that were we to stack these, we could visually decode the ciphertext back
 ```cpp
 cipher Cipher("If man was meant to stay on the ground, god would have given us roots.");
 
-Cipher.normalized_plain_text() == "ifmanwasmeanttostayonthegroundgodwouldhavegivenusroots";
+Cipher.normalize_plain_text() == "ifmanwasmeanttostayonthegroundgodwouldhavegivenusroots";
 
 Cipher.plain_text_segments() == {{"ifmanwas"},
                                  {"meanttos"},
@@ -64,7 +64,7 @@ Cipher.plain_text_segments() == {{"ifmanwas"},
                                  {"vegivenu"},
                                  {"sroots  "}};
 
-Cipher.cipher_text() == "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn  sseoau ";
+Cipher.normalized_cipher_text() == "imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn  sseoau ";
 ```
 
 ## License
