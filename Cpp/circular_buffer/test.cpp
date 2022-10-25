@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
-#include "circular_buffer.cpp"
 #include <catch2/catch.hpp>
+#include "circular_buffer.h"
 
 using namespace std;
 

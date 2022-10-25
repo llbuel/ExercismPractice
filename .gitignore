@@ -77,3 +77,5 @@ Cpp/word_count/.vscode/settings.json
 Cpp/word_count/.vscode/tasks.json
 Cpp/word_count/test
 Cpp/new_project.bat
+Cpp/circular_buffer/.vscode/tasks.json
+Cpp/circular_buffer/test
