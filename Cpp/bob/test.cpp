@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "bob.cpp"
+#include "bob.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

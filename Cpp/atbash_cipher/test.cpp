@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "atbash_cipher.cpp"
+#include "atbash_cipher.h"
 #include <catch2/catch.hpp>
 
 TEST_CASE("encode_yes")

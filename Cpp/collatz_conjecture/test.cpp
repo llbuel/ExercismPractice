@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "collatz_conjecture.cpp"
+#include "collatz_conjecture.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

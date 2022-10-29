@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "roman_numerals.cpp"
+#include "roman_numerals.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "difference_of_squares.cpp"
+#include "difference_of_squares.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "food_chain.cpp"
+#include "food_chain.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

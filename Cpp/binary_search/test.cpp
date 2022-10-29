@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "binary_search.cpp"
+#include "binary_search.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

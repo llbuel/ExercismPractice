@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "two_fer.cpp"
+#include "two_fer.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "space_age.cpp"
+#include "space_age.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "reverse_string.cpp"
+#include "reverse_string.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

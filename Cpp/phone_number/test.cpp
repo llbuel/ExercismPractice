@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "phone_number.cpp"
+#include "phone_number.h"
 #include <catch2/catch.hpp>
 #include <exception>
 

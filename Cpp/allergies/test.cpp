@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "allergies.cpp"
+#include "allergies.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

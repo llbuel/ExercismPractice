@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "gigasecond.cpp"
+#include "gigasecond.h"
 #include <catch2/catch.hpp>
 
 using namespace boost::posix_time;

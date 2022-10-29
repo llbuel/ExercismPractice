@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "trinary.cpp"
+#include "trinary.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

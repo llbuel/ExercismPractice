@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "beer_song.cpp"
+#include "beer_song.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

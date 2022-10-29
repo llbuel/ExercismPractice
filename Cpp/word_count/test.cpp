@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "word_count.cpp"
+#include "word_count.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

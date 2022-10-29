@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "prime_factors.cpp"
+#include "prime_factors.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

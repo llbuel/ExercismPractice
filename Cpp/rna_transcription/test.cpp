@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "rna_transcription.cpp"
+#include "rna_transcription.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "protein_translation.cpp"
+#include "protein_translation.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

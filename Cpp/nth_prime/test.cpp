@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "nth_prime.cpp"
+#include "nth_prime.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

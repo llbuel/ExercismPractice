@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "sieve.cpp"
+#include "sieve.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

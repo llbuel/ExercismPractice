@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "grade_school.cpp"
+#include "grade_school.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

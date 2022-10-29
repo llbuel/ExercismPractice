@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "triangle.cpp"
+#include "triangle.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

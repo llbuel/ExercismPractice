@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "series.cpp"
+#include "series.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

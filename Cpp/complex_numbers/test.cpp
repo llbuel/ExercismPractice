@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "complex_numbers.cpp"
+#include "complex_numbers.h"
 #include <catch2/catch.hpp>
 
 using namespace std;

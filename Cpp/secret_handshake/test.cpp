@@ -1,5 +1,5 @@
 #define CATCH_CONFIG_MAIN
-#include "secret_handshake.cpp"
+#include "secret_handshake.h"
 #include <catch2/catch.hpp>
 
 using namespace std;
