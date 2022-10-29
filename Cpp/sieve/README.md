@@ -25,5 +25,9 @@ Notice that this is a very specific algorithm, and the tests don't check that yo
 primes(10) == {2, 3, 5, 7}
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

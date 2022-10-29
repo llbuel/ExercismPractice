@@ -40,5 +40,9 @@ sing(8,7) == "8 bottles of beer on the wall, 8 bottles of beer.\n"
              "Take one down and pass it around, 6 bottles of beer on the wall.\n"
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

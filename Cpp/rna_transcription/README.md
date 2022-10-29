@@ -21,5 +21,9 @@ Given a DNA strand, its transcribed RNA strand is formed by replacing each nucle
 to_rna('A') == 'U'
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

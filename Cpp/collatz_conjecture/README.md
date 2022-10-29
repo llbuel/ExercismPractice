@@ -27,5 +27,9 @@ Resulting in 9 steps. So for input n = 12, the return value would be 9.
 steps(1000000) == 152
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

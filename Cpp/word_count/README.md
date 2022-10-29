@@ -39,6 +39,9 @@ words("\"That's the password: 'PASSWORD 123'!\", cried the Special Agent.\nSo I 
                                                                                             {"123", 1}, {"cried", 1}, {"special",1},
                                                                                             {"agent", 1}, {"so", 1}, {"i", 1}, {"fled", 1}}
 ```
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

@@ -16,5 +16,9 @@ You are not expected to discover an efficient solution to this yourself from fir
 difference(5) == 170
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

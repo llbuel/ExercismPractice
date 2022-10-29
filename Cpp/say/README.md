@@ -63,5 +63,9 @@ Use "and" (correctly) when spelling out the number in English:
 in_english(1234ULL) == "one thousand two hundred and thirty-four"
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

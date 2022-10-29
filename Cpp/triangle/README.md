@@ -18,5 +18,9 @@ For a shape to be a triangle at all, all sides have to be of length > 0, and the
 triangle::flavor::scalene == triangle::kind(10, 11, 12)
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

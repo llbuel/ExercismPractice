@@ -12,5 +12,9 @@ The sum of these multiples is 78.
 to({3, 5}, 20) == 78
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

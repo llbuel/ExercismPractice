@@ -21,5 +21,9 @@ However, if the name is missing, return the string:
 |""|"One for you, one for me."|
 |"Zaphod"|"One for Zaphod, one for me."|
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

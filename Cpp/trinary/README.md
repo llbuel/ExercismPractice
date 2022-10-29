@@ -22,5 +22,9 @@ If your language provides a method in the standard library to perform the conver
 to_decimal(102012) == 302
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

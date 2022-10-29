@@ -34,5 +34,9 @@ add("Jeff", 1)
 grade(5) == {"Bradley","Franklin"}
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

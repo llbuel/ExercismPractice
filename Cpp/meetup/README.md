@@ -25,5 +25,9 @@ Given examples of a meetup dates, each containing a month, day, year, and descri
 scheduler meetup(boost::gregorian::Jan, 2017).first_monday() == boost::gregorian::date(2017, boost::gregorian::Jan, 2)
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

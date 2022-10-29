@@ -23,5 +23,9 @@ robot.reset()
 robot.name() == "BC811" //New randomized name after a reset
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

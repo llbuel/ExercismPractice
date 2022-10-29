@@ -29,5 +29,9 @@ c1 + c2 == Complex(2.0, 4.0)
 c1 * c2 == Complex(-3.0, 4.0)
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

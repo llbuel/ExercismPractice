@@ -30,5 +30,9 @@ phone_number("+1 (613)-995-0253").number() == "6139950253"
 phone_number("+1 (613)-995-0253").area_code() == "613"
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

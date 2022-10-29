@@ -24,5 +24,9 @@ digits("49142") == {4, 9, 1, 4, 2}
 slice("49142", 3) == {{4, 9, 1}, {9, 1, 4}, {1, 4, 2}}
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

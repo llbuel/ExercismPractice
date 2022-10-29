@@ -18,5 +18,9 @@ leap::is_leap_year(1800) == false
 leap::is_leap_year(1996) == true
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

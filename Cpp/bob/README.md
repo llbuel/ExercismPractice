@@ -20,5 +20,9 @@ Bob's conversational partner is a purist when it comes to written communication 
 hey("") == "Whatever."
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

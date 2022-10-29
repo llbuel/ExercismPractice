@@ -37,5 +37,9 @@ score.is_allergic_to("strawberries") == false
 score.get_allergies() == {"peanuts", "chocolate"}
 ```
 
+## Installation/Usage
+
+[See the ExercismPractice README for general usage and installation details.](https://github.com/Lignite17/ExercismPractice/blob/main/README.md)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
