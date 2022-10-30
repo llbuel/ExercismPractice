@@ -1,6 +1,5 @@
 
 Cpp/*/.vscode/tasks.json
-!Cpp/1_template/.vscode/*
 Cpp/*/*
 !Cpp/*/*.cpp
 !Cpp/*/*.h
