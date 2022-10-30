@@ -1,4 +1,5 @@
 
+Cpp/*/.vscode/tasks.json
 Cpp/*/*
 !Cpp/*/*.cpp
 !Cpp/*/*.h
