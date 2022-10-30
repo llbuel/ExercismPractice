@@ -20,6 +20,7 @@ echo "Copying template files."
 mkdir -p $PWD/$project_name
 
 cp $PWD/1_template/README.md $PWD/1_template/source.cpp $PWD/1_template/header.h $PWD/1_template/test.cpp $PWD/$project_name
+cp -r $PWD/1_template/.vscode $PWD/$project_name
 
 echo "Renaming files."
 
