@@ -1,7 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "binary_search_tree.h"
 #include <catch2/catch.hpp>
-#include <vector>
 
 template<typename T>
 
