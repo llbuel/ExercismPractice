@@ -10,7 +10,6 @@ namespace binary_search_tree {
 template <typename T> class binary_tree {
 private:
     T m_rootData;
-    int m_stringRootData;
     binary_tree* m_parentNode;
     binary_tree* m_previous;
     binary_tree* m_next;
