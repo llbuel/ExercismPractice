@@ -26,5 +26,11 @@ Because "test.cpp" contains the program entry point for each exercise, to run ju
 
 **TL;DR:** Either build all source files for a given exercise before running (done automatically by MS Visual Studio), or make sure to write your own `int main()` entry point in the exercise source file to just build and run that one. Do not build all from the parent "/Cpp/" directory, as you will then have *multiple* entry points.
 
+## Contributions
+
+Suggestions for making the code in each exercise more efficient are welcome, but I will only merge PRs at my discretion, as this project is primarily an exercise (hah) in learning C++ in a project-based way.
+
+PRs should be well commented, explaining why one method is better than the one posted -- this is meant as an exercise for learning C++ through simple projects.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
